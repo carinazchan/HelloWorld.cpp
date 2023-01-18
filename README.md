@@ -1,4 +1,4 @@
-# hello_world.cpp
+# HelloWorld.cpp
 Hello World in C++.
 
 - Compile: g++ HelloWorld.cpp
